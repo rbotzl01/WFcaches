@@ -1,2 +1,2 @@
 # WFcaches
-creating webpages for a a series of geocaches based on Will Ferrell movies
+creating webpages for a series of geocaches based on Will Ferrell movies
